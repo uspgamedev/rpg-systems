@@ -2,9 +2,9 @@
 Combat actions comparison between 3.5e and 5e
 =============================================
 
+## Standard Action                
+
 | 3.5e                     | 5e                     |
-|:-------------------------------------------------:|
-|                   Standard Action                 |
 |--------------------------|------------------------|
 | Melee attack             | Melee Attack (action)  |
 | + No mult atk            | + Mult atk by feature  |
