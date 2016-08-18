@@ -1,4 +1,3 @@
-
 Combat actions comparison between 3.5e, 4e and 5e
 =============================================
 
@@ -21,31 +20,74 @@ Combat actions comparison between 3.5e, 4e and 5e
 ## Action Types
 ### D&D 3.5
 #### Standard Action
-* Melee Attack: Strike any opponent within 5 feet (adjacent). Weapons with reach can reach 10 feet, but can't affect adjacent opponents
-* Unarmed Attack: Melee attack that provokes an attack of opportunity, which comes before your attack and is only from the selected target, unless the target is also unarmed.
-* "Armed" Unarmed Attack: Melee attack that does not provoke an attack of opportunity. Can be either from *Improved Unarmed Strike*, natural weapons or touch spell.
-* Ranged Attack: Shoot/Throw at any target within the weapon's maximum range (5 * increment for thrown, 10 * increment for projectiles).
-  * -4 to roll if the target is engaged in melee with a friendly character **unless if they are at least 10 feet away from each other**
-* Fighting Defensively: -4 to all attack rolls in a round, +2 dodge bonus to AC on the same round.
-* Casting some spells: Provoke an attack of opportunity.
-  * Concentration DC 10 + damage + spell level. If failed, lose the spell.
-* Casting spells defensively: Does not provoke an attack of opportunity.
-  * Concentration DC 15 + spell level. If failed, lose the spell.
+* Melee Attack
+* Ranged Attack
+* Fighting Defensively
+* Casting some spells
+* Casting spells defensively
 * Concentrating to Maintain spell
 * Dismissing a spell
 * Activating Magic Item
-* Total Defense: +4 dodge bonus to AC for 1 round, disables your attacks of opportunity
-* Start/Complete Full round action: Uses 2 standard actions instead of a full round action. Does not apply to full attack, charge, run or withdraw
+* Total Defense
+* Start/Complete Full round action
+* Aid Another
+* Bull Rush (Unless it is part of a Charge)
+* Disarm
+* Feint
+* Grapple (with one attack)
+* Overrun
+* Sunder
+* Throw splash weapon
+* Trip
+* Ready an Action
 
+### D&D 4
+#### Standard Action
+* Administer Potion
+* Aid Another
+* Basic Attack
+* Bull Rush
+* Charge
+* Coup de Grace
+* Equip/Stow shield
+* Grab
+* Move Grabbed target
+* Ready an Action
+* Second Wind
+* Total Defense
 
-## Standard Action
-| 3.5e                     | 5e                     |
-|--------------------------|------------------------|
-| Melee attack             | Melee Attack (action)  |
-| + No mult atk            | + Mult atk by feature  |
-| + 2hand light other hand | + 2hand both light     |
-|--------------------------|------------------------|
-| Ranged attack            | Ranged Attack (action) |
-| + Everyone mult atk      | + Mult atk by feature  |
-| + Opportunity atk        | + 5-ft disadvantage    |
+### D&D 5
+#### Action
+* Attack
+* Cast Spell
+* Dash
+* Disengage
+* Dodge
+* Help
+* Hide
+* Ready an Action
+* Search
+* Use an Object
 
+## Action Comparisons
+### Melee Attack
+| 3.5                                                     | 4                                                                          | 5                                                         |
+|---------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------|
+| Reach weapons cannot attack adjacent targets            | Reach weapons can reach adjacent targets                                   | Reach weapons can reach adjacent targets                  |
+| Reach weapons threat reach area                         | Reach weapons threat only adjacent squares                                 | Reach weapons threat reach/adjacent area                  |
+| Unarmed Attack provokes opportunity attack from target  | Unarmed Attack doesn't provoke opportunity attacks                         | Unarmed Attack doesn't provoke opportunity attacks        |
+| No proficiency for Unarmed Attack for lethal damage     | No proficiency for Unarmed Attack                                          | Proficiency with Unarmed Attack                           |
+| Unarmed Attack damage 1d3 bludgeoning, nonlethal        | Unarmed Attack damage 1d4                                                  | Unarmed Attack damage 1 bludgeoning                       |
+| Two weapon fighting, any weapon, uses full round action | Two weapon fighting with an Off-hand Weapon only if a class feature allows | Two weapon fighting with a Light Weapon uses bonus action |
+
+### Ranged Attack
+| 3.5                                                              | 4                                                               | 5                                                                               |
+|------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------------------------|
+| Max Range is 5 increments for thrown, 10 for projectile          | Max Range defined by weapon or power, with priority for power   | Max Range weapon based                                                          |
+| -2 on roll for each increment                                    | -2 if target is between normal and max range                    | Disadvantage if target is between normal and max range                          |
+| -4 if target is engaged in melee with a friendly character       | No penalties on these cases                                     | Disadvantage if target is within 5 feet, can see you and is not incapacitated   |
+| Provoke attack of opportunity from multiple threatening enemies  | Provoke attack of opportunity from multiple threatening enemies | Does not provoke an attack of opportunity                                       |
+| Thrown weapons use Strength for damage roll                      | Heavy thrown weapons use Strength, light thrown use dexterity   | Thrown finesse weapons can choose Strength or Dexterity, the rest uses Strength |
+| Projectile Weapons don't add modifier to damage roll             | Ranged Basic attack adds Dexterity modifier to damage roll      | Thrown finesse weapons can choose Strength or Dexterity, the rest uses Strength |
+| Unusual thrown weapons deal weapon damage, crit 20/x2            | Unusual thrown one-handed weapons deal 1d4 damage               | Unusual thrown weapon deals 1d4 damage                                          |
+| Free action for reloading bow/shuriken, Move action for the rest | Free action for load free, minor action for load                | Reloading is part of the attack action                                          |
