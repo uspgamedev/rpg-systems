@@ -80,6 +80,14 @@ Combat actions comparison between 3.5e, 4e and 5e
 | Unarmed Attack damage 1d3 bludgeoning, nonlethal        | Unarmed Attack damage 1d4                                                  | Unarmed Attack damage 1 bludgeoning                       |
 | Two weapon fighting, any weapon, uses full round action | Two weapon fighting with an Off-hand Weapon only if a class feature allows | Two weapon fighting with a Light Weapon uses bonus action |
 
+Observations!
+
+1. Open dual wielding in 3.5, restricted by weapon type in 4 and 5. Additionally, 4 also requires a class feature.
+
+2. Reach is bizarre. 5 is the simplest, which is you reach and threaten everything and stuff.
+
+3. Unarmed was buffed from 3.5 to 4, and then nerfed in 5.
+
 ### Ranged Attack
 | 3.5                                                              | 4                                                               | 5                                                                               |
 |------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------------------------|
