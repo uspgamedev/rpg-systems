@@ -91,6 +91,25 @@ Combat actions comparison between 3.5e, 4e and 5e
 | Projectile Weapons don't add modifier to damage roll             | Ranged Basic attack adds Dexterity modifier to damage roll      | Thrown finesse weapons can choose Strength or Dexterity, the rest uses Strength |
 | Unusual thrown weapons deal weapon damage, crit 20/x2            | Unusual thrown one-handed weapons deal 1d4 damage               | Unusual thrown weapon deals 1d4 damage                                          |
 | Free action for reloading bow/shuriken, Move action for the rest | Free action for load free, minor action for load                | Action or bonus action only for reload weapons                                          |
+Observations!
+
+1. The range mechanic is harsher in 3.5 and softer in 5, at the cost of being
+   less instinctive and with the bonus of being easier to calculate.
+
+2. We consider close-range ranged attacks harsher in 3.5 and 4, where there are
+   opportunity attacks, even if in 5 the attack rolls with disadvantage.
+
+3. Overall, ranged attack become safer in 5, and thus maybe stronger
+
+## Damage
+
+### Criticals
+
+| 3.5 | 4 | 5 |
+|---|---|---|
+| multiply dice, depends on weapon, stack bonus/penalities | maximize damage | double dice, keep bonus/penalties |
+| weapon-based crit. range, needs confirm | ??? | roll 20 |
+
 ## Meta-thinking
 
 ### Hit points
