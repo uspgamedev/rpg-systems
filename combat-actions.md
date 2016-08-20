@@ -118,6 +118,84 @@ Observations!
 | multiply dice, depends on weapon, stack bonus/penalities | maximize damage | double dice, keep bonus/penalties |
 | weapon-based crit. range, needs confirm | ??? | roll 20 |
 
+## Other Actions
+
+| Action | 3.5 | 4 | 5 |
+|---|---|---|---|
+|Melee atk                  | | | |
+|Ranged atk                 | | | |
+|Opportunity atk            | | | |
+|Use magic item             | | | |
+|Aid                        | | | |
+|Bull rush | | | |
+|Cast spell | | | |
+|Sustain spell | | | |
+|Interrupt spell | | | |
+|Draw weapon | | | |
+|Quaff potion | | | |
+|Apply Oil | | | |
+|Escape Grapple | | | |
+|Feint | | | |
+|Light torch with match | | | |
+|Neutralize RM(?) | | | |
+|Stabilize | | | |
+|Trample | | | |
+|Read scroll | | | |
+|Ready action | | | |
+|Sunder weapon | | | |
+|Sunder object | | | |
+|Total defense | | | |
+|Turn undead | | | |
+|Use extraordinary ability | | | |
+|Use skill | | | |
+|Use spell-like ability | | | |
+|Use supernatural | | | |
+| | | | |Movement
+|Stop horse bullshit | | | |
+|(Re)Direct spell | | | |
+|Unsheath weapon | | | |
+|Reload crossbow | | | |
+|Open/Close door | | | |
+|Mount/Dismount | | | |
+|Move heavy object | | | |
+|Pick item up | | | |
+|Sheath weapon | | | |
+|Get up | | | |
+|Prepare/Drop shield | | | |
+|Grab/Store to/from bp | | | |
+|Multiple atk | | | |
+|Charge | | | |
+|Coup de grace | | | |
+|Escape net | | | |
+|Extinguish flames | | | |
+|Light torch | | | |
+|Reload heavy crossbow | | | |
+|Lock/Unlock safety gauntlet | | | |
+|Prepare splash weapon | | | |
+|Run | | | |
+|Dash | | | |
+|Hide | | | |
+|Search | | | |
+|Cast touch spell in multiple targets | | | |
+|Withdraw | | | |
+|Cast quickened spell | | | |
+|Terminate concentration | | | |
+|Release item | | | |
+|Drop prone | | | |
+|Prepare spell components | | | |
+|Speak | | | |
+|Delay | | | |
+|Shift | | | |
+|Disengage | | | |
+|Dodge | | | |
+|Disarm | | | |
+|Grapple | | | |
+|Immobilize | | | |
+|Use feat | | | |
+|Use object | | | |
+|Interact with object | | | |
+|Improvised action | | | |
+
 ## Meta-thinking
 
 ### Hit points
