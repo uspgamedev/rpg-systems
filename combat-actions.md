@@ -122,79 +122,79 @@ Observations!
 
 | Action | 3.5 | 4 | 5 |
 |---|---|---|---|
-|Melee atk                  | | | |
-|Ranged atk                 | | | |
-|Opportunity atk            | | | |
-|Use magic item             | | | |
-|Aid                        | | | |
-|Bull rush | | | |
-|Cast spell | | | |
-|Sustain spell | | | |
-|Interrupt spell | | | |
-|Draw weapon | | | |
-|Quaff potion | | | |
-|Apply Oil | | | |
-|Escape Grapple | | | |
-|Feint | | | |
-|Light torch with match | | | |
-|Neutralize RM(?) | | | |
-|Stabilize | | | |
-|Trample | | | |
-|Read scroll | | | |
-|Ready action | | | |
-|Sunder weapon | | | |
-|Sunder object | | | |
-|Total defense | | | |
-|Turn undead | | | |
-|Use extraordinary ability | | | |
-|Use skill | | | |
-|Use spell-like ability | | | |
-|Use supernatural | | | |
-| | | | |Movement
-|Stop horse bullshit | | | |
-|(Re)Direct spell | | | |
-|Unsheath weapon | | | |
-|Reload crossbow | | | |
-|Open/Close door | | | |
-|Mount/Dismount | | | |
-|Move heavy object | | | |
-|Pick item up | | | |
-|Sheath weapon | | | |
-|Get up | | | |
-|Prepare/Drop shield | | | |
-|Grab/Store to/from bp | | | |
-|Multiple atk | | | |
-|Charge | | | |
-|Coup de grace | | | |
-|Escape net | | | |
-|Extinguish flames | | | |
-|Light torch | | | |
-|Reload heavy crossbow | | | |
-|Lock/Unlock safety gauntlet | | | |
-|Prepare splash weapon | | | |
-|Run | | | |
-|Dash | | | |
-|Hide | | | |
-|Search | | | |
-|Cast touch spell in multiple targets | | | |
-|Withdraw | | | |
-|Cast quickened spell | | | |
-|Terminate concentration | | | |
-|Release item | | | |
-|Drop prone | | | |
-|Prepare spell components | | | |
-|Speak | | | |
-|Delay | | | |
-|Shift | | | |
-|Disengage | | | |
-|Dodge | | | |
-|Disarm | | | |
-|Grapple | | | |
-|Immobilize | | | |
-|Use feat | | | |
-|Use object | | | |
-|Interact with object | | | |
-|Improvised action | | | |
+|Melee atk                  | | | "Attack" Action |
+|Ranged atk                 | | | "Attack" Action |
+|Opportunity atk            | | | Reaction |
+|Use magic item             | | | Depends on item |
+|Aid                        | | | "Help" Action |
+|Bull rush | | | "Improvised" Action, or maybe "Attack" Action |
+|Cast spell | | | Depends on spell |
+|Sustain spell | | | No action required |
+|Interrupt spell | | | No action required, if possible at all |
+|Draw weapon | | | Part of movement |
+|Quaff potion | | | Part of movement |
+|Apply Oil | | | "Use an object" Action |
+|Escape Grapple | | | Action |
+|Feint | | | "Improvised" Action or "Help" Action, depends |
+|Light torch with match | | | Part of movement |
+|Neutralize RM(?) | | | WTF |
+|Stabilize | | | Action |
+|Trample | | | "Improvised" Action |
+|Read scroll | | | Action |
+|Ready action | | | "Ready" Action |
+|Sunder weapon | | | "Improvised" Action |
+|Sunder object | | | "Improvised" Action |
+|Total defense | | | "Improvised" Action, but see "Dodge" Action |
+|Turn undead | | | Depends on spell |
+|Use extraordinary ability | | | Depends on ability |
+|Use skill | | | Depends on usage |
+|Use spell-like ability | | | Depends on ability |
+|Use supernatural ability | | | Depends on ability |
+|Movement | | | Movement |
+|Stop horse bullshit | | | "Improvised" Action |
+|(Re)Direct spell | | | Depends on spell |
+|Unsheath weapon | | | Part of movement |
+|Reload crossbow | | | No action required |
+|Open/Close door | | | Part of movement |
+|Mount/Dismount | | | Part of movement |
+|Move heavy object | | | "Use an object" Action |
+|Pick item up | | | Part of movement |
+|Sheath weapon | | | Part of movement |
+|Get up | | | Part of movement, see "Prone" condition |
+|Prepare/Drop shield | | | Part of movement |
+|Grab/Store to/from bp | | | Part of movement |
+|Multiple atk | | | "Attack" Action |
+|Charge | | | "Improvised" Action |
+|Coup de grace | | | "Attack" Action |
+|Escape net | | | Action |
+|Extinguish flames | | | "Use an object" or "Improvised" Action |
+|Light torch | | | "Use an object" Action |
+|Reload heavy crossbow | | | No action required, but see "reload" weapon in DMG |
+|Lock/Unlock safety gauntlet | | | "Use an object" Action |
+|Prepare splash weapon | | | Depends on weapon |
+|Run | | | "Improvised" Action?, see "Dash" Action |
+|Dash | | | "Dash" Action |
+|Hide | | | "Hide" Action |
+|Search | | | "Search" Action |
+|Cast touch spell in multiple targets | | | Depends on spell |
+|Withdraw | | | "Improvised" Action?, see "Disengage" Action |
+|Cast quickened spell | | | Depends on spell |
+|Terminate concentration | | | No action required |
+|Release item | | | Part of movement |
+|Drop prone | | | Part of movement |
+|Prepare spell components | | | Part of movement for action-based spells |
+|Speak | | | No action required |
+|Delay | | | No action required? |
+|Shift | | | Movement |
+|Disengage | | | "Disengage" Action |
+|Dodge | | | "Dodge" Action |
+|Disarm | | | "Improvised" Action, but there are feats for this |
+|Grapple | | | "Attack" Action |
+|Immobilize | | | "Improvised" Action, but there should be feats for this |
+|Use feat | | | Depends on feat |
+|Use object | | | "Use object" Action |
+|Interact with object | | | "Use object" Action |
+|Improvised action | | | "Improvised" Action |
 
 ## Meta-thinking
 
@@ -203,5 +203,3 @@ Observations!
 | 3.5 | 4 | 5 |
 |---|---|---|
 | No description mechanism | "Bloodied value" mechanism | No description mechanism |
-
-
