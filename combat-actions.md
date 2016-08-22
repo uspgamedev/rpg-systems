@@ -137,7 +137,7 @@ Observations!
 |Escape Grapple | | | Action |
 |Feint | | | "Improvised" Action or "Help" Action, depends |
 |Light torch with match | | | Part of movement |
-|Neutralize RM(?) | | | WTF |
+|Lower Spell Resistance | | | Spell Resistance does not exist |
 |Stabilize | | | Action |
 |Trample | | | "Improvised" Action |
 |Read scroll | | | Action |
@@ -153,7 +153,7 @@ Observations!
 |Movement | | | Movement |
 |Stop horse bullshit | | | "Improvised" Action |
 |(Re)Direct spell | | | Depends on spell |
-|Unsheath weapon | | | Part of movement |
+|Unsheathe weapon | | | Part of movement |
 |Reload crossbow | | | No action required |
 |Open/Close door | | | Part of movement |
 |Mount/Dismount | | | Part of movement |
