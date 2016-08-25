@@ -115,8 +115,8 @@ Observations!
 
 | 3.5 | 4 | 5 |
 |---|---|---|
-| multiply dice, depends on weapon, stack bonus/penalities | maximize damage | double dice, keep bonus/penalties |
-| weapon-based crit. range, needs confirm | ??? | roll 20 |
+| multiply dice, depends on weapon, stack bonus/penalities | maximize damage, extra damage for high crit weapons | double dice, keep bonus/penalties |
+| weapon-based crit. range, needs confirmation | natural 20 | natural 20 |
 
 ## Other Actions
 
