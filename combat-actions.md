@@ -133,23 +133,23 @@ Observations!
 |Dismiss spell | Standard Action | Does not have Spells| No action required, if possible at all |
 |Draw weapon | Move action usually, Standard Action for hidden weapon | Minor Action | Part of movement |
 |Quaff potion | Standard Action | Minor Action | Part of movement |
-|Apply Oil | Standard Action | Does not have Oil | "Use an object" Action |
+|Apply Oil | Standard Action | Does not have Oil | Depends on oil |
 |Escape Grapple | Standard Action | Move Action | Action |
 |Feint | Standard Action | Does not have Feint | "Improvised" Action or "Help" Action, depends |
 |Light torch | Full-round Action, Standard Action with tindertwig | Not Specified | Part of movement |
 |Lower Spell Resistance | Standard Action | Spell Resistance does not exist | Spell Resistance does not exist |
 |Stabilize | Standard Action | Standard Action | Action |
-|Overrun | Standard Action | Does not have Overrun | "Improvised" Action |
+|Overrun | Standard Action | Does not have Overrun | Does not have Overrun |
 |Read scroll | Standard Action | Depends on ritual | Action |
 |Ready action | Standard Action | Standard Action | "Ready" Action |
 |Sunder weapon | Standard Action | Does not have Sunder | "Improvised" Action |
 |Sunder object | Standard Action | Does not have Sunder | "Improvised" Action |
-|Total defense | Standard Action | Standard Action | "Improvised" Action, but see "Dodge" Action |
-|Turn undead | Standard Action | Depends on Power | Depends on spell |
-|Use extraordinary ability | Standard Action if it requires an Action | Does not have Extraordinary Abilities | Depends on ability |
+|Total defense | Standard Action | Standard Action | Does not have Total Defense |
+|Turn undead | Standard Action | Depends on Power | Action |
+|Use extraordinary ability | Standard Action if it requires an Action | Does not have Extraordinary Abilities | Does not have Extraordinary Abilities |
 |Use skill | Depends on usage | Depends on usage | Depends on usage |
 |Use spell-like ability | Depends on spell | Does not have Spells | Depends on ability |
-|Use supernatural ability | Standard Action if it requires an action | Does not have Supernatural Abilities | Depends on ability |
+|Use supernatural ability | Standard Action if it requires an action | Does not have Supernatural Abilities | Does not have Supernatural Abilities |
 |Movement | Move Action | Move Action | Movement |
 |Control a frightened mount | Move Action | Nature skill check, standard Action | "Improvised" Action |
 |(Re)Direct spell | Move Action | Does not have Spells | Depends on spell |
@@ -163,10 +163,10 @@ Observations!
 |Prepare/Drop shield | Move Action | Minor Action | Part of movement |
 |Grab/Store to/from backpack | Move Action | Minor Action | Part of movement |
 |Multiple atk | Full-round action | Standard Action | "Attack" Action |
-|Charge | Full-round action | Standard Action | "Improvised" Action |
+|Charge | Full-round action | Standard Action | Does not have Charge |
 |Coup de grace | Full-round action | Standard Action | "Attack" Action |
 |Escape net | Full-round action | Does not specify | Action |
-|Extinguish flames | Full-round action | Does not specify | "Use an object" or "Improvised" Action |
+|Extinguish flames | Full-round action | Does not specify | Does not specify |
 |Lock/Unlock gauntlet | Full-round action | Does not specify | "Use an object" Action |
 |Prepare splash weapon | Full-round action | Does not specify | Depends on weapon |
 |Run | Full-round action | Move Action | "Improvised" Action?, see "Dash" Action |
@@ -191,6 +191,7 @@ Observations!
 |Use object | Move Action | Does not specify | "Use object" Action |
 |Interact with object | Move Action | Does not specify | "Use object" Action |
 |Improvised action | Does not specify | Does not specify | "Improvised" Action |
+|Shove | | | Attack Action |
 
 ## Meta-thinking
 
