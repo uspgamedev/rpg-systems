@@ -80,3 +80,16 @@ Best encounter power: Force Orb -> 2d8+4, average 13, min 6, crit 20
 Best daily powers: Acid Arrow -> 2d8+5, average 14, min 7, crit 21
 Feat: Burning Blizzard
 
+# Life Points estimate
+Considering an average of 10 Con, with minimum 3 (No negative modifiers by race on 4th ed.) and maximum 20 (+2 from race) at level 1
+
+|  Class  | Minimum | Average | Maximum |
+| ------- | ------- | ------- | ------- |
+| Cleric  |   15    |    22   |   32    |
+| Fighter |   18    |    25   |   35    |
+| Paladin |   18    |    25   |   35    |
+| Ranger  |   15    |    22   |   32    |
+| Rogue   |   15    |    22   |   32    |
+| Warlock |   15    |    22   |   32    |
+| Warlord |   15    |    22   |   32    |
+| Wizard  |   13    |    20   |   30    |
