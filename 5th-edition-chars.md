@@ -21,16 +21,24 @@ Best offensive spell: Thunderwave (lv1) (2d8 damage)
 Final damage: Thunderwave => 2d8 or 2-16 (9)
 
 ## Fighter
+Half-orc
+Str 17 Dex 13 Con 15
+Int 10 Wis 12 Cha 8
+Race Feature: criticals get one more dice
+Best Weapon: Melee, 2x Hand Axes (1d6+3/1d6+3 damage with 2 hands or 8-42)
 
-Dueling
+Final damage: 2x Weapon => 1d6 + 3/1d6 + 3 or 8-42 (13)
 
-Longsword => 1d8 + 3 + 2 or 6-27 (9.5)
+### Dueling
 
-Great Weapon Fighting
+Longsword => 1d8 + 3 + 2 or 6-29 (9.5)
 
-Maul => 2d6 + 3 (reroll on 1 or 2) or 5-33 (...)
+### Great Weapon Fighting
 
-2-Weapon Fighting
+Maul => 2d6 + 3 (reroll on 1 or 2) or 5-33 (11.333)
+(1d6 dropping first 1 or 2 has mean 4.166)
 
-Shortsword x2 => 1d6 + 3/1d6 + 3
+### 2-Weapon Fighting
+
+Shortsword x2 => 1d6 + 3/1d6 + 3 or 8-42 (13)
 
