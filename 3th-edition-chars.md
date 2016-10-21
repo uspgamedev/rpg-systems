@@ -44,7 +44,7 @@ Half-orc
 Str 17 Dex 12 Con 14
 Int 8  Wis 13  Cha 6 <-- notice Wis 13: 1 extra 1st lv. spell
 Feat: augmented summoning (STR +4)
-Class: animal companion (Heavy Horse)
+Class Feat: animal companion (Heavy Horse)
 Best Weapon: Gnome Hooked Hammer => 1d8 + 3/1d6 + 3 (x3/x4) or 8-66
 Spells: summon nature's ally, magic fang
 
@@ -64,4 +64,15 @@ Final best atk: melee hammer + heavy horse atk + magic fang + eagle atk
 ### Nature Ally
 
 + Eagle: 1d4/1d4/1d4 or 3-24 (7.5)
+
+## Fighter
+Half-orc
+Str 17 Dex 13 Con 14
+Int 8  Wis 12  Cha 6
+Feat: power attack (To hit -1, Damage +1)
+Best Weapon: Gnome Hooked Hammer => 1d8 + 4/1d6 + 4 (x3/x4) or 10-73
+
+Final best atk: melee hammer => see above
+
+
 
