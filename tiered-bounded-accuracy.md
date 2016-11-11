@@ -17,10 +17,16 @@ copied from [this article][1]:
 
 ### Player growth
 
-| Aspect | Range/Growth |
-| ------ |:------------:|
-| Level  | 1 - 20       |
-| Damage | 100(45-140)  |
+| Aspect        | Range/Growth                  |
+| ------------- |:-----------------------------:|
+| Level         | 1..20                         |
+| AC[1]         | 11..12 / 12..15 / 14..18 / 2  |
+| Hit Points    | 11..163 (1d8, CON 15)         |
+| Attack Bonus  | +2/+3..+6/+5 (prof/attr)      |
+| Damage/Round  | 9..50                         |
+| Proficiency   | +2..+6                        |
+
+[1] light/medium/heavy/shield
 
 ### Environment growth
 
