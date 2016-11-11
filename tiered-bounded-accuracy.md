@@ -3,7 +3,17 @@
 
 ## Tier 1
 
-Based on classic bounded accuracy.
+This is classic bounded accuracy. Most of it is based on the following table,
+copied from [this article][1]:
+
+| DC/AC | Difficulty         | To Break           | Armor | To Hit        |
+| ----- | ------------------ | ------------------ | ----- | ------------- |
+| 5     | Very Easy          | glass bottle       |       | inanimate obj |
+| 10    | Easy               | wooden chair       | None  | badger        |
+| 15    | Medium             | simple door        | Light | troll         |
+| 20    | Hard               | small chest        | Full  | dragon        |
+| 25    | Very Hard          | treasure chest     |       | tarrasque     |
+| 30    | Nearly Impossible  | masonry wall 1 ft  |       | deity         |
 
 ### Player growth
 
@@ -39,4 +49,6 @@ TODO
 | Attack Bonus  | +15 to +21                    |
 | Damage/Round  | 400-600                       |
 | Proficiency   | 9-14 (+5)                     |
+
+[1]:https://olddungeonmaster.wordpress.com/2014/08/30/bounded-accuracy/
 
