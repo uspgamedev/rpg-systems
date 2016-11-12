@@ -1,5 +1,5 @@
 
-# Tier System Proposal
+# **Tiered Bounded Accuracy** Proposal
 
 ## Tier 1
 
@@ -26,11 +26,77 @@ copied from [this article][1]:
 | Damage/Round  | 9..50                         |
 | Proficiency   | +2..+6                        |
 
-*light/medium/heavy/shield
+***** light/medium/heavy/shield
+
+Each line in the table is explained below.
+
+#### Level
+
+Self explanatory.
+
+#### Armor Class
+
+TODO
+
+#### Hit Points
+
+TODO
+
+#### Attack Bonus
+
+TODO
+
+#### Damage Per Round (DPR)
+
+The hardest part to calculate from player growth is the damage output per round,
+as it wildly varies from class to class. Here we considered to extremes:
+Fighters and Wizards. While the former's main source of damage comes from its
+multiple attacks and eventual maneuvers, the latter has a whole set of spells at
+its disposal. At first, we considered the mean damage of a 9th level spell, but
+that does not reflect damage per round properly, since each wizard has only one
+9th level spell slot, and thus can only cast one 9th level spell between long
+rests.
+
+We do know that a Fighter has a Damage/Round mean of 50 because it has four
+attacks and possibly some superiority die to add to the damage. That is:
+
++ Normal attack: 1d10 + 5/1d10 + 5/1d10 + 5/1d10 + 5 (mean 44)
++ Every maneuvered attack gets +1d12 damage (mean +6.5)
+
+If we consider that a level 20 Fighter has six d12 superiority dies, and that
+they recover every short rest, then a rough guess is that they can use maneuvers
+60% of the time (10 rounds per short rest, 30 per day). The final mean damage
+output per round is:
+
++ 0.6 x 50.5 + 0.4 x 44 = 47.9
+
+By a similar logic, a Wizard with 30 rounds per long rest, fighting greedily,
+would use up its spell slots from the strongest to the weakest until only
+cantrips are left. Following the "One Target" column from the "Spell Damage"
+Table (DMG 284), that makes:
+
++ (15d10 + 12d10 + 2 x (11 + 10)d10 + 3 x (8 + 6 + 5 + 3)d10 + 4 x 2d10 + 8 x 1d10)/30
++ = (15 + 12 + 2 x (11 + 10) + 3 x (8 + 6 + 5 + 3) + 4 x 4 + 8)d10/30
++ = (27 + 42 + 72 + 24) x 5.5 / 30
++ = (69 + 96) x 5.5 / 30
++ = 165 x 5.5 / 30
++ = 30.25
+
+Which is actually lower than the Fighter's DPR!
+
+#### Proficiency
+
+As per the "Character Advancement" Table (PHB 15).
+
+---
 
 ### Environment growth
 
 TODO
+
+---
+
+---
 
 ## Tier 2
 
