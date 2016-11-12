@@ -20,13 +20,13 @@ copied from [this article][1]:
 | Aspect        | Range/Growth                  |
 | ------------- |:-----------------------------:|
 | Level         | 1..20                         |
-| AC*           | 11..12 / 12..15 / 14..18 / 2  |
+| AC¹           | 11..12 / 12..15 / 14..18 / 2  |
 | Hit Points    | 11..163 (1d8, CON 15)         |
 | Attack Bonus  | +2/+3..+6/+5 (prof/attr)      |
-| Damage/Round  | 9..90                         |
+| Damage/Round  | 9..125(90-160)                |
 | Proficiency   | +2..+6                        |
 
-***** light/medium/heavy/shield
+¹ light/medium/heavy/shield
 
 Each line in the table is explained below.
 
@@ -49,7 +49,7 @@ TODO
 #### Damage Per Round (DPR)
 
 Following the procedure to calculate a monster's "overall damage output"
-(DMG 278), we consider a player's DPR to be the mean of the damage outputs of
+(DMG 278), we consider a player's DPR to be the average of the damage outputs of
 its first three rounds in a battle immediately after a long rest choosing the
 most effective attacks greedily. Let's consider a few concrete cases of level
 20 characters.
@@ -75,30 +75,29 @@ play, adding +5 (WIS modifier) to all evocation damage rolls. Since there is
 only one 9th and 8th level spell slot, and the most damaging high-level spells
 are:
 
-+ Meteor Swarm (9th level): 20d6 fire damage + 20d6 blunt damage
-+ Sunburst (8th level): 12d6 radiant damage
-+ Delayed Blast Fireball (7th level): 12d6 fire damage
++ Meteor Swarm (9th level, AoE): 20d6 fire damage + 20d6 blunt damage
++ Sunburst (8th level, AoE): 12d6 radiant damage
++ Delayed Blast Fireball (7th level, AoE): 12d6 fire damage
 + Mordenkainen's Sword (7th level): 3d10 force damage at first and as bonus
   action during concentration (1 minute)
-+ Prismatic Spray (7th level): 10d6 random type damage
++ Prismatic Spray (7th level, AoE): 10d6 random type damage
 
-The most effective three-round sequence is to cast Mordenkainen's Sword,
-Meteor Swarm then Sunburst, using the bonus actions to deal extra damage with
-the summoned Sword:
+Considering that AoE spells have double the damage output (which assumes they
+hit at least two enemies), the most effective three-round sequence is to cast
+Mordenkainen's Sword, Meteor Swarm then Sunburst, using the bonus actions to
+deal extra damage with the summoned Sword:
 
 + First round (Mordenkainen's Sword, two attacks):
   + 2x (3d10 + 5) = 2x (16.5 + 5) = 2x (21.5) = 43
 + Second round (Meteor Swarm + Sword):
   + 2x (20d6 + 5) = 2x (70 + 5) = 150
   + 3d10 + 5 = 21.5
-  + Total: 171.5
+  + Total: 2x150 + 21.5 = 321.5
 + Third round (Sunburst + Sword):
   + 12d6 + 5 = 42 + 5 = 47
   + 3d10 + 5 = 21.5
-  + Total: 68.5
-+ Overall damage output: (43 + 171.5 + 68.5)/3 = 94.333
-
-Which makes me strongly believe that this applies to all classes.
+  + Total: 2x47 + 21.5 = 115.5
++ Overall damage output: (43 + 321.5 + 115.5)/3 = 160
 
 #### Proficiency
 
@@ -124,7 +123,7 @@ TODO
 | AC            | +5 armors / +2 shields        |
 | Hit Points    | 2 hit die per level (200-400) |
 | Attack Bonus  | +10 (+3 prof/+5 attr/+2 ???)  |
-| Damage/Round  | 120(60-180) to 260(130-400)   |
+| Damage/Round  | 125(90-160) to 260(130-400)   |
 | Proficiency   | 7-9 (+3)                      |
 
 ### Environment growth
