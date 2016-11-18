@@ -150,6 +150,12 @@ if applicable). This effect lasts for half a minute, after which you become
 vulnerable to all damage types until you finish a long rest. After you use this
 feat, you can only use it again after you finish a long rest too.
 
++ **~Barbarian~**
+
+  **Bloody Critical (lv. 22)**. You gain a fourth additional weapon damage die
+  for critical hits with melee attacks. You also gain a fifth and a sixth
+  additional die at levels 26 and 30, respectively.
+
 + **~Fighter~**
 
   **Advanced Fighting (lv. 22)**. Choose one of the following.
@@ -180,6 +186,7 @@ feat, you can only use it again after you finish a long rest too.
 
     **Extraordinary Combat Superiority (lv. 28)**. Your superiority dice become
     d20s.
+
   + **~Eldrith Knight~**
 
     **Greater War Magic (lv. 24)**. When you use your action to cast a spell,
