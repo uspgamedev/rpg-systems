@@ -1,6 +1,9 @@
 
 # **Tiered Bounded Accuracy** Proposal
 
++ [Tier 1](#tier-1)
+  + [Player growth](#player-growth)
+
 ## Tier 1
 
 This is classic bounded accuracy. Most of it is based on the following table,
@@ -122,16 +125,73 @@ TODO
 | Level         | 21-30                         |
 | AC            | +5 armors / +2 shields        |
 | Hit Points    | 2 hit die per level (200-400) |
-| Attack Bonus  | +10 (+3 prof/+5 attr/+2 ???)  |
+| Attack Bonus  | +8 (+3 prof/+5 attr)          |
 | Damage/Round  | 125(90-160) to 260(130-400)   |
 | Proficiency   | 7-9 (+3)                      |
+
+#### New class features
+
+| Lv. | Class stuff |
+| --- | -------------  |
+| 21  | Ability Score Improvement |
+| 22  | Class feature |
+| 23  | Ability Score Improvement |
+| 24  | Archetype feature |
+| 25  | Ability Score Improvement |
+| 26  | Class feature |
+| 27  | Ability Score Improvement |
+| 28  | Archetype feature |
+| 29  | Ability Score Improvement |
+| 30  | Class-specific awesomeness |
+
++ **~Fighter~**
+
+  **Advanced Fighting (lv. 22)**. Choose one of the following.
+
+  *Combo attack*. Whenever you hit an attack, gain +4 damage bonus for all
+  subsequent damage rolls you make until the end of your turn, unless you miss
+  an attack.
+
+  *Enhanced reach*. Your reach increases by 5 feet with any melee weapon. If
+  this triggers an opportunity attack with a weapon that would not normally
+  reach the target, you must make an adjustment step (which costs no action).
+
+  *Dodgemaster*. You can take the Dodge action as a bonus action.
+
+  **Extra Attack (lv. 26)**. You can make a fifth attack with your Attack
+  action.
+
+  + **~Champion~**
+
+    **Epic Critical (lv. 24)**. Increase critical range to 17-20.
+
+    **Tough as Nails (lv. 28)**. Choose two damage immunities.
+  + **~Battle Master~**
+
+    **Extended Combat Superiority (lv. 24)**. Gain a seventh superiority die.
+
+    **Extraordinary Combat Superiority (lv. 28)**. Your superiority dice become
+    d20s.
+  + **~Eldrith Knight~**
+
+    **Greater War Magic (lv. 24)**. When you use your action to cast a spell,
+    you can make a weapon attack and cast a cantrip as a single bonus action.
+
+    **Elemental Weapon Bond (lv. 28)**. When you hit an attack with a bonded
+    weapon, you can change its damage type to one of the following: acid, cold,
+    fire, force, lightning, necrotic, poison, psychic, radiant, or thunder.
++ **Other class**
+
+#### Spell Casting
+
+#### Feats
 
 ### Environment growth
 
 | Aspect        | Range/Growth                  |
 | ------------- |:-----------------------------:|
-| CR            | 30-50                         |
-| AC/DC         | +10 to difficulty ranks       |
+| CR            | 31-50                         |
+| AC/DC         | +8 to difficulty ranks        |
 | Ht Points     | +135 per CR (985-2150)        |
 | Attack Bonus  | +15 to +21                    |
 | Damage/Round  | 400-600                       |
