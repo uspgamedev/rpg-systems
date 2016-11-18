@@ -21,8 +21,8 @@ copied from [this article][1]:
 | ------------- |:-----------------------------:|
 | Level         | 1..20                         |
 | AC¹           | 11..12 / 12..15 / 14..18 / 2  |
-| Hit Points    | 11..163 (1d8, CON 15)         |
-| Attack Bonus  | +2/+3..+6/+5 (prof/attr)      |
+| Hit Points    | 11..163                       |
+| Attack Bonus  | +5..+11                       |
 | Damage/Round  | 9..125(90-160)                |
 | Proficiency   | +2..+6                        |
 
@@ -36,15 +36,15 @@ Self explanatory.
 
 #### Armor Class
 
-TODO
+Based on standard non-magic armors available to buy.
 
 #### Hit Points
 
-TODO
+Assuming a d8 hit die with CON 15.
 
 #### Attack Bonus
 
-TODO
+From proficiency +2 to +6, and attribute 14-15 (+3) to 20 (+5).
 
 #### Damage Per Round (DPR)
 
