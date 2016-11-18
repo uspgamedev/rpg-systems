@@ -131,18 +131,24 @@ TODO
 
 #### New class features
 
-| Lv. | Class stuff |
-| --- | -------------  |
-| 21  | Ability Score Improvement |
-| 22  | Class feature |
-| 23  | Ability Score Improvement |
-| 24  | Archetype feature |
-| 25  | Ability Score Improvement |
-| 26  | Class feature |
-| 27  | Ability Score Improvement |
-| 28  | Archetype feature |
-| 29  | Ability Score Improvement |
-| 30  | Class-specific awesomeness |
+| Lv. | Class stuff                 |
+| --- | --------------------------- |
+| 21  | Ability Score Improvement   |
+| 22  | Class feature               |
+| 23  | Ability Score Improvement   |
+| 24  | Archetype feature           |
+| 25  | Ability Score Improvement   |
+| 26  | Class feature               |
+| 27  | Ability Score Improvement   |
+| 28  | Archetype feature           |
+| 29  | Ability Score Improvement   |
+| 30  | Epic Sayan                  |
+
+**Epic Sayan**. As an action, you can enter a super sayan mode, during which
+all your dice always roll the maximum possible number (triggering critical hits
+if applicable). This effect lasts for half a minute, after which you become
+vulnerable to all damage types until you finish a long rest. After you use this
+feat, you can only use it again after you finish a long rest too.
 
 + **~Fighter~**
 
@@ -160,6 +166,8 @@ TODO
 
   **Extra Attack (lv. 26)**. You can make a fifth attack with your Attack
   action.
+
+  **Archetype features**:
 
   + **~Champion~**
 
@@ -180,6 +188,7 @@ TODO
     **Elemental Weapon Bond (lv. 28)**. When you hit an attack with a bonded
     weapon, you can change its damage type to one of the following: acid, cold,
     fire, force, lightning, necrotic, poison, psychic, radiant, or thunder.
+
 + **Other class**
 
 #### Spell Casting
